@@ -1,6 +1,6 @@
 # This hosts file is a merged collection from https://raw.githubusercontent.com/brunomiguel/antinonio
 #
-# Date: 22 May 2019
+# Date: 2019-06-06T13:18:16.321Z
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
 # Project home page: https://github.com/andrepcg/antinonio-pihole
@@ -80,8 +80,6 @@
 0.0.0.0 bluekai.com
 0.0.0.0 bnmla.com
 0.0.0.0 browseset.com
-0.0.0.0 brpx.com
-0.0.0.0 brpx.io
 0.0.0.0 btrll.com
 0.0.0.0 bttrack.com
 0.0.0.0 byside.com
@@ -304,3 +302,4 @@
 0.0.0.0 y-medialink.com
 0.0.0.0 zemanta.com
 0.0.0.0 zencdn.net
+
